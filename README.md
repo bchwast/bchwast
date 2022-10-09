@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/-bchwast01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bchwast@gmail.com "Send me an email")
 
 <h1 align="center">Hi 👋, I'm Bartek</h1>
-<h3 align="center">Sophomore CS student</h3>
+<h3 align="center">Middler CS student</h3>
 
 - 🌱 I’m at the beginning of my adventure with software development, learning something new every day
 
